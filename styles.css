@@ -42,7 +42,7 @@ top: -11.9rem;
   position: relative;
   margin-left: 0.5rem;
 }
-.text1 {
+.followers{
   color: gray;
   position: relative;
   top: -7.5rem;
@@ -79,7 +79,7 @@ h1 {
   top: auto;
   overflow: hidden;
 }
-h2.black {
+.black-80k {
   color: black;
   font-size: 18px;
   font-family: "Outfit", sans-serif;
