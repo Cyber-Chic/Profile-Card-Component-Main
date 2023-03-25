@@ -71,35 +71,49 @@ height: 1px;
 background-color: #ccc;
 border: none;
 position: relative;
-top: -16.25rem;
+top: -20.75rem;
 } 
 .black-80k {
   color: black;
   font-size: 18px;
   font-family: "Outfit", sans-serif;
   top: -6.7rem;
-  margin-right: 7rem;
+  margin-right: 10rem;
   position: relative;
 }
 .followers{
   color: gray;
   position: relative;
   top: -7.5rem;
-  margin-right: 7rem;
+  margin-right: 10rem;
 }
 .black-803k {
   color: black;
   font-size: 18px;
   font-family: "Outfit", sans-serif;
   top: -11.2rem;
-  margin-left: 3rem;
+  margin-left: 1rem;
   position: relative;
 }
 .likes{
   color: gray;
   position: relative;
   top: -12rem;
-  margin-left: 3rem;
+  margin-left: 1rem;
+}
+.black-1-4k {
+  color: black;
+  font-size: 18px;
+  font-family: "Outfit", sans-serif;
+  top: -15.7rem;
+  margin-left: 12rem;
+  position: relative;
+}
+.photos {
+  color: gray;
+  position: relative;
+  top: -16.5rem;
+  margin-left: 12rem;
 }
 .attribution {
   font-size: 15px;
