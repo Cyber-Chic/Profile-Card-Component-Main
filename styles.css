@@ -1,0 +1,85 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+  background: url("https://stackblitz.com/files/web-platform-ftmyn2/github/Cyber-Chic/--frontendmentor_ordersummary/main/images/bg-pattern-card.svg");
+  background-color: hsl(185, 75%, 39%);
+  color: hsl(218, 44%, 22%);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
+  background-position: 0% 0%;
+  background-size: 100% 50%;
+}
+.whiteblock {
+  max-width: 322px;
+  height: 25rem;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 15%;
+  background-repeat: no-repeat;
+  background-color: white;
+  margin: auto;
+}
+.firstparagraph {
+  font-size: 16px;
+  font-family: "Outfit", sans-serif;
+  color: hsl(220, 15%, 55%);
+  font-weight: 400;
+  line-height: 1.7;
+  inline-size: 19rem;
+  top: -7rem;
+  position: relative;
+  margin-left: 0.5rem;
+}
+.text1 {
+  color: gray;
+  position: relative;
+  top: -7.5rem;
+  margin-right: 7rem;
+}
+h1 {
+  font-family: "Outfit", sans-serif;
+  font-weight: 900;
+  font-size: 20px;
+  top: -6rem;
+  position: relative;
+  margin-bottom: 1rem;
+}
+.card-top {
+  border-radius: 50px 50px 0 0;
+  width: 20rem;
+  height: 10rem;
+  margin-bottom: 2rem;
+}
+.victor {
+  border-radius: 100px;
+  width: 8rem;
+  height: 9rem;
+  margin-right: 0rem;
+  top: -6rem;
+  margin-bottom: 0;
+  position: relative;
+}
+.sr-only {
+  position: absolute;
+  left: -10000px;
+  width: 1px;
+  height: 1px;
+  top: auto;
+  overflow: hidden;
+}
+h2.black {
+  color: black;
+  font-size: 18px;
+  font-family: "Outfit", sans-serif;
+  top: -6.7rem;
+  margin-right: 7rem;
+  position: relative;
+}
+.attribution {
+  font-size: 15px;
+  text-align: center;
+  margin-top: 50px;
+}
