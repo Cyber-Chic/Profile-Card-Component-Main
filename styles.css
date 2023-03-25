@@ -21,16 +21,7 @@ body {
   background-repeat: no-repeat;
   background-color: white;
   margin: auto;
-}
-hr  
-{  
-width: 100%;  
-height: 1px;
-background-color: #ccc;
-border: none;
-position: relative;
-top: -11.9rem;
-}  
+} 
 .firstparagraph {
   font-size: 16px;
   font-family: "Outfit", sans-serif;
@@ -41,12 +32,6 @@ top: -11.9rem;
   top: -7rem;
   position: relative;
   margin-left: 0.5rem;
-}
-.followers{
-  color: gray;
-  position: relative;
-  top: -7.5rem;
-  margin-right: 7rem;
 }
 h1 {
   font-family: "Outfit", sans-serif;
@@ -79,6 +64,15 @@ h1 {
   top: auto;
   overflow: hidden;
 }
+hr  
+{  
+width: 100%;  
+height: 1px;
+background-color: #ccc;
+border: none;
+position: relative;
+top: -16.25rem;
+} 
 .black-80k {
   color: black;
   font-size: 18px;
@@ -86,6 +80,26 @@ h1 {
   top: -6.7rem;
   margin-right: 7rem;
   position: relative;
+}
+.followers{
+  color: gray;
+  position: relative;
+  top: -7.5rem;
+  margin-right: 7rem;
+}
+.black-803k {
+  color: black;
+  font-size: 18px;
+  font-family: "Outfit", sans-serif;
+  top: -11.2rem;
+  margin-left: 3rem;
+  position: relative;
+}
+.likes{
+  color: gray;
+  position: relative;
+  top: -12rem;
+  margin-left: 3rem;
 }
 .attribution {
   font-size: 15px;
