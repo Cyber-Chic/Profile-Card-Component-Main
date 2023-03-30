@@ -4,14 +4,21 @@ body {
   align-items: center;
   min-height: 100vh;
   text-align: center;
-  background: url("https://stackblitz.com/files/web-platform-ohrz2d/github/Cyber-Chic/Profile-Card-Component-Main/main/images/bg-pattern-bottom.svg"), url("https://stackblitz.com/files/web-platform-ohrz2d/github/Cyber-Chic/Profile-Card-Component-Main/main/images/bg-pattern-top.svg");
   background-color: hsl(185, 75%, 39%);
   color: hsl(218, 44%, 22%);
   background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: bottom -15rem left 45rem, bottom 25rem right 45rem;
   background-size: 100% 100%;
   font-family: 'Kumbh Sans', sans-serif;
+}
+.bottomcircle{
+  border-radius: 100px;
+  width: 15rem;
+  height: 30rem;
+  margin-right: -25rem;
+  top: 10rem;
+  margin-bottom: 0;
+  position: relative;
+  mix-blend-mode: overlay;
 }
 .whiteblock {
   max-width: 322px;
