@@ -10,6 +10,16 @@ body {
   background-size: 100% 100%;
   font-family: 'Kumbh Sans', sans-serif;
 }
+.topcircle{
+  border-radius: 100px;
+  width: 15rem;
+  height: 30rem;
+  margin-right: 20rem;
+  top: -10rem;
+  margin-bottom: 0;
+  position: relative;
+  mix-blend-mode: overlay;
+}
 .bottomcircle{
   border-radius: 100px;
   width: 15rem;
@@ -59,6 +69,7 @@ h1 {
   width: 100%;
   height: 8.5rem;
   margin-bottom: 2rem;
+  
 }
 .victor {
   border-radius: 100px;
