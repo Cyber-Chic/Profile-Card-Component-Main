@@ -156,7 +156,11 @@ hr {
 	font-size: 11px;
 }
 .attribution {
+	display: flex;
 	font-size: 15px;
 	text-align: center;
 	margin-top: 50px;
+	align-self: flex-end;
+	align-items: flex-end;
+	
 }
