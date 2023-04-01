@@ -7,8 +7,9 @@ body {
 	background-color: hsl(185, 75%, 39%);
 	color: hsl(218, 44%, 22%);
 	background-repeat: no-repeat;
-	background-size: 100% 100%;
+	background-size: 100% 50%;
 	font-family: "Kumbh Sans", sans-serif;
+	background-position: 0% 0%;
 }
 .topcircle {
 	border-radius: 100px;
@@ -30,6 +31,20 @@ body {
 	position: relative;
 	mix-blend-mode: overlay;
 }
+main {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	text-align: center;
+}
+.centeritems {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	text-align: center;
+}
 .whiteblock {
 	max-width: 322px;
 	height: 23rem;
@@ -37,8 +52,6 @@ body {
 	border-radius: 5%;
 	background-repeat: no-repeat;
 	background-color: white;
-	margin: auto;
-	justify-content: center;
 }
 .firstparagraph {
 	font-size: 14px;
