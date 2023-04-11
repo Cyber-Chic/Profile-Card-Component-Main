@@ -1,166 +1,176 @@
 body {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	min-height: 100vh;
-	text-align: center;
-	background-color: hsl(185, 75%, 39%);
-	color: hsl(218, 44%, 22%);
-	background-repeat: no-repeat;
-	background-size: 100% 50%;
-	font-family: "Kumbh Sans", sans-serif;
-	background-position: 0% 0%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+  background-color: hsl(185, 75%, 39%);
+  color: hsl(218, 44%, 22%);
+  background-repeat: no-repeat;
+  background-size: 100% 50%;
+  font-family: "Kumbh Sans", sans-serif;
+  background-position: 0% 0%;
 }
 .topcircle {
-	border-radius: 100px;
-	width: 15rem;
-	height: 30rem;
-	margin-right: 20rem;
-	top: -10rem;
-	margin-bottom: 0;
-	position: relative;
-	mix-blend-mode: overlay;
+  border-radius: 100px;
+  width: 15rem;
+  height: 30rem;
+  margin-right: 20rem;
+  top: -10rem;
+  margin-bottom: 0;
+  position: relative;
+  mix-blend-mode: overlay;
 }
 .bottomcircle {
-	border-radius: 100px;
-	width: 15rem;
-	height: 30rem;
-	margin-right: -25rem;
-	top: 10rem;
-	margin-bottom: 0;
-	position: relative;
-	mix-blend-mode: overlay;
+  border-radius: 100px;
+  width: 15rem;
+  height: 30rem;
+  margin-right: -25rem;
+  top: 10rem;
+  margin-bottom: 0;
+  position: relative;
+  mix-blend-mode: overlay;
 }
 main {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	min-height: 100vh;
-	text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
 }
 .centeritems {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	min-height: 100vh;
-	text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
 }
-.whiteblock {
-	max-width: 322px;
-	height: 23rem;
-	background-color: hsl(0, 0%, 100%);
-	border-radius: 5%;
-	background-repeat: no-repeat;
-	background-color: white;
-}
-.firstparagraph {
-	font-size: 14px;
-	color: hsl(220, 15%, 55%);
-	font-weight: 400;
-	line-height: 1.7;
-	inline-size: 19rem;
-	top: -9rem;
-	position: relative;
-	margin-left: 0.5rem;
-}
-h1 {
-	font-family: "Outfit", sans-serif;
-	font-weight: 900;
-	font-size: 18px;
-	top: -6rem;
-	position: relative;
-	margin-bottom: 1rem;
+.victorname {
+  font-family: "Outfit", sans-serif;
+  font-weight: 900;
+  font-size: 18px;
+  top: -0.1rem;
+  position: relative;
+  margin-bottom: 1rem;
 }
 .age26 {
-	color: gray;
-	position: relative;
-	top: -8.5rem;
-	margin-left: 10rem;
-	font-size: 18px;
+  color: gray;
+  font-family: "Outfit", sans-serif;
+  font-size: 18px;
+  top: -0.3rem;
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+.victorcrest26 {
+  display: flex;
+  justify-content: center;
+  margin-bottom: -1rem;
+  top: -6rem;
+  position: relative;
+}
+.london {
+  font-size: 14px;
+  color: hsl(220, 15%, 55%);
+  font-weight: 400;
+  line-height: 1.7;
+  margin-left: -8.5rem;
+  position: relative;
+  top: 2rem;
+}
+.numberstats {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 7rem;
+  top: -2.5rem;
+  position: relative;
+}
+.gray {
+  font-size: 11px;
+  color: gray;
+}
+.eightykfollowers {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin-bottom: 1rem;
+  top: 1rem;
+  position: relative;
+}
+.eighthun3klikes {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin-bottom: 1rem;
+  top: 1rem;
+  position: relative;
+}
+.onethousand4kphotos {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin-bottom: 1rem;
+  top: 1rem;
+  position: relative;
+}
+.whiteblock {
+  min-width: 322px;
+  max-width: 322px;
+  height: 23rem;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 5%;
+  background-repeat: no-repeat;
+  background-color: white;
+}
+h1 {
+  font-family: "Outfit", sans-serif;
+  font-weight: 900;
+  font-size: 18px;
+  top: -6rem;
+  position: relative;
+  margin-bottom: 1rem;
 }
 .card-top {
-	border-radius: 10px 10px 0 0;
-	width: 100%;
-	height: 8.5rem;
-	margin-bottom: 2rem;
-	mix-blend-mode: darken;
+  border-radius: 10px 10px 0 0;
+  width: 100%;
+  height: 8.5rem;
+  margin-bottom: 2rem;
+  mix-blend-mode: darken;
 }
 .victor {
-	border-radius: 100px;
-	width: 6.5rem;
-	height: 6.5rem;
-	margin-right: 0rem;
-	top: -6rem;
-	margin-bottom: 0;
-	position: relative;
+  border-radius: 100px;
+  width: 6.5rem;
+  height: 6.5rem;
+  margin-right: 0rem;
+  top: -6rem;
+  margin-bottom: 0;
+  position: relative;
 }
 .sr-only {
-	position: absolute;
-	left: -10000px;
-	width: 1px;
-	height: 1px;
-	top: auto;
-	overflow: hidden;
+  position: absolute;
+  left: -10000px;
+  width: 1px;
+  height: 1px;
+  top: auto;
+  overflow: hidden;
 }
 hr {
-	width: 100%;
-	height: 1px;
-	background-color: #ccc;
-	border: none;
-	position: relative;
-	top: -19rem;
+  width: 100%;
+  height: 1px;
+  background-color: #ccc;
+  border: none;
+  position: relative;
+  top: -1.8rem;
 }
-.black-80k {
-	color: black;
-	font-size: 18px;
-	font-family: "Outfit", sans-serif;
-	top: -6.7rem;
-	margin-right: 10rem;
-	position: relative;
-}
-.followers {
-	color: gray;
-	position: relative;
-	top: -7.3rem;
-	margin-right: 10rem;
-	font-size: 11px;
-}
-.black-803k {
-	color: black;
-	font-size: 18px;
-	font-family: "Outfit", sans-serif;
-	top: -10.7rem;
-	margin-left: 1rem;
-	position: relative;
-}
-.likes {
-	color: gray;
-	position: relative;
-	top: -11.3rem;
-	margin-left: 1rem;
-	font-size: 11px;
-}
-.black-1-4k {
-	color: black;
-	font-size: 18px;
-	font-family: "Outfit", sans-serif;
-	top: -14.7rem;
-	margin-left: 12rem;
-	position: relative;
-}
-.photos {
-	color: gray;
-	position: relative;
-	top: -15.2rem;
-	margin-left: 12rem;
-	font-size: 11px;
+.bolded {
+  font-weight: bold;
+  color: black;
+  font-size: 18px;
 }
 .attribution {
-	display: flex;
-	font-size: 15px;
-	text-align: center;
-	margin-top: 50px;
-	align-self: flex-end;
-	align-items: flex-end;
-	
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 50rem;
 }
