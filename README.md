@@ -58,5 +58,6 @@ I learned how to format multiple background images, use "mix-blend-mode: overlay
 - Github - [@Cyber-Chic](https://github.com/Cyber-Chic)
 
 # Sponsors
-- Thank you for reading about my coding journey!😁
-- You can sponsor me if you like my work & want to show support.💖
+> **SIGNAL NOTE:** This project is a digital subsystem of the [Moore Archive](https://emaze.me/tma). 
+> Sponsorships support my full creative ecosystem—from public-facing research to physical art drops.
+> [**SUPPORT THE JOURNEY**](https://www.paypal.com/donate/?hosted_button_id=CJVWS45KF46ZE) | **STATUS: 🟢 NOMINAL**
