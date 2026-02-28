@@ -51,12 +51,6 @@ I learned how to format multiple background images, use "mix-blend-mode: overlay
 - [Flexbox Froggy](https://flexboxfroggy.com/) - This fun game used frogs to strengthen my flexbox skills.
 - [Flexbox Zombies](https://mastery.games/flexboxzombies/) - This cool game used zombies to strengthen my flexbox skills.
 
-## Author
-
-- Website - [Angie's Poetry Blog](https://angies.poetry.blog/)
-- Frontend Mentor - [@Cyber-Chic](https://www.frontendmentor.io/profile/Cyber-Chic)
-- Github - [@Cyber-Chic](https://github.com/Cyber-Chic)
-
 # Sponsors
 ### [ 🛰️ PROJECT SUBSYSTEM ]
 **Part of the [Moore Archive](https://emaze.me/tma) Creative Ecosystem.**  
