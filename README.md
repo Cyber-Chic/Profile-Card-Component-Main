@@ -1,4 +1,4 @@
-# 💻 Frontend Mentor: Order Summary // THE MOORE SIGNAL
+# 💻 Frontend Mentor: Profile Card // THE MOORE SIGNAL
 
 This is a solution to the [profile card component challenge](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ) hosted on Frontend Mentor.
 Frontend Mentor requires the use of front end skills to create websites and solve real world coding challenges.
